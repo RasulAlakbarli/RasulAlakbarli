@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Rasul, I am an AI engineer passionate about pre and post training of LLMs.
 
 <!--
 **RasulAlakbarli/RasulAlakbarli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
